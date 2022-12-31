@@ -1,0 +1,167 @@
+[
+  {
+    "title": "Controller",
+    "tasks": [
+      {
+        "title": "first task",
+        "status": "In Progress",
+        "type": "Item",
+        "sub_tasks": [
+          {
+            "title": "1st sub task",
+            "status": "Done",
+            "type": "Bug"
+          },
+          {
+            "title": "2nd sub task",
+            "status": "In Progress",
+            "type": ""
+          },
+          {
+            "title": "3rd sub task",
+            "status": "Stuck",
+            "type": "Sub-item"
+          }
+        ]
+      },
+      {
+        "title": "second task",
+        "status": "Done",
+        "type": "Bug",
+        "sub_tasks": [
+          {
+            "title": "4th sub task",
+            "status": "Done",
+            "type": "Item"
+          },
+          {
+            "title": "5th sub task",
+            "status": "Open",
+            "type": "Test"
+          }
+        ]
+      }
+    ]
+  },{
+    "title": "Facade",
+    "status": "Done",
+    "tasks": [
+      {
+        "title": "first task",
+        "status": "Done",
+        "type": "Item",
+        "sub_tasks": [
+          {
+            "title": "1st sub task",
+            "status": "Done",
+            "type": "Bug"
+          },
+          {
+            "title": "2nd sub task",
+            "status": "In Progress",
+            "type": ""
+          },
+          {
+            "title": "3rd sub task",
+            "status": "Stuck",
+            "type": "Sub-item"
+          }
+        ]
+      },
+      {
+        "title": "second task",
+        "status": "Open",
+        "type": "Bug",
+        "sub_tasks": [
+          {
+            "title": "4th sub task",
+            "status": "Open",
+            "type": "Item"
+          },
+          {
+            "title": "5th sub task",
+            "status": "Done",
+            "type": "Test"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Service",
+    "status": "Done",
+    "tasks": [
+      {
+        "title": "third task",
+        "status": "Done",
+        "type": "Item",
+        "sub_tasks": [
+          {
+            "title": "6th sub task",
+            "status": "Done"
+          }
+        ]
+      },
+      {
+        "title": "fourth task",
+        "status": "Done",
+        "type": "Test",
+        "sub_tasks": [
+          {
+            "title": "7th sub task",
+            "status": "Open",
+            "type": "Sub-test"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Repository",
+    "tasks": [
+      {
+        "title": "fifth task",
+        "status": "Stuck",
+        "type": "BUG",
+        "sub_tasks": []
+      },
+      {
+        "title": "sixth task",
+        "status": "In Progress",
+        "type": "BUG",
+        "sub_tasks": [
+          {
+            "title": "8th sub task",
+            "status": "Done",
+            "type": "BUG"
+          },
+          {
+            "title": "9th sub task",
+            "status": "Done",
+            "type": "BUG"
+          },
+          {
+            "title": "10th sub task",
+            "status": "Done",
+            "type": "BUG"
+          },
+          {
+            "title": "11th sub task",
+            "status": "Done",
+            "type": "BUG"
+          },
+          {
+            "title": "12th sub task",
+            "status": "Done",
+            "type": "BUG"
+          },
+          {
+            "title": "13th sub task",
+            "status": "Done",
+            "type": "BUG"
+          }
+        ]
+      }
+    ]
+  }
+]

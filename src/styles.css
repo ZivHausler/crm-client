@@ -1,0 +1,246 @@
+/* SIGNUP PAGE! */
+.signup-page {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.signup-form > .title {
+  margin: 10px 0px 40px 0px;
+  text-align: center;
+}
+.signup-form > .title > h1 {
+  font-size: 40px;
+}
+.signup-form > .title > p {
+  margin-top: 5px;
+  font-size: 14px;
+  font-weight: 200;
+}
+
+.signup-background-div {
+  height: 60vh;
+  width: 90%;
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 20px;
+  display: flex;
+  justify-content: end;
+  position: relative;
+}
+
+.login-background-div h1 {
+  margin-bottom: 15px;
+  font-size: 40px;
+}
+
+.login-background-div {
+  min-height: 480px;
+  height: 60vh;
+  width: 90%;
+  max-width: 900px;
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.dont-have-account {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-background-div .login-inputs {
+  width: 100%;
+  max-width: 700px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-button {
+  margin: 10px;
+  padding: 10px 35px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.login-inputs .login {
+  background-color: #3f7afe;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  color: white;
+  margin: 10px;
+  width: 200px;
+}
+
+.dont-have-account .register {
+  background-color: white;
+  box-shadow: 0 0 5px #3f7afe;
+  color: #3f7afe;
+  margin-top: 10px;
+}
+
+.dont-have-account p {
+  font-weight: 200;
+}
+
+.already-registered {
+  width: 50%;
+  padding: 80px 40px;
+  position: relative;
+}
+
+.already-registered button {
+  margin-top: 10px;
+  width: 140px;
+  background-color: white;
+  padding: 10px;
+  color: #3f7afe;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 0 5px #3f7afe;
+}
+
+.man-use-laptop {
+  width: 28%;
+  position: absolute;
+  transform: scaleX(-1);
+  bottom: 0;
+  right: 10px;
+  opacity: 0.7;
+  z-index: 0;
+  min-width: 350px;
+  max-width: 520px;
+  user-select: none;
+}
+
+.already-registered > p {
+  font-weight: 200;
+}
+
+.signup-page {
+  padding: 20px;
+}
+
+.signup-form {
+  padding: 0px 60px 20px 80px;
+  position: absolute;
+  left: 0;
+  width: 50%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.9);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.signup-inputs {
+  max-width: 500px;
+}
+
+.login-inputs input {
+  padding: 10px 15px;
+  margin: 5px;
+  width: 45%;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  border: none;
+}
+
+.signup-inputs input {
+  padding: 10px 15px;
+  margin: 5px;
+  width: 45%;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  border: none;
+}
+
+.submit-div {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.signup-inputs .submit-div .signup-submit-button {
+  width: 60%;
+  background-color: #3f7afe;
+  padding: 15px;
+  color: white;
+  cursor: pointer;
+  padding: 10px 15px;
+  margin: 5px;
+  width: 45%;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  border: none;
+}
+
+/* LOADER */
+.loader {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 6rem;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.loader:before,
+.loader:after {
+  content: "";
+  position: absolute;
+  border-radius: 50%;
+  animation: pulsOut 1.8s ease-in-out infinite;
+  filter: drop-shadow(0 0 1rem rgba(60, 196, 39, 0.75));
+}
+.loader:before {
+  width: 100%;
+  padding-bottom: 100%;
+  box-shadow: inset 0 0 0 1rem rgb(65, 227, 79);
+  animation-name: pulsIn;
+}
+.loader:after {
+  width: calc(100% - 2rem);
+  padding-bottom: calc(100% - 2rem);
+  box-shadow: 0 0 0 0 rgb(65, 227, 79);
+}
+
+@keyframes pulsIn {
+  0% {
+    box-shadow: inset 0 0 0 1rem rgb(130, 213, 137);
+    opacity: 1;
+  }
+  50%,
+  100% {
+    box-shadow: inset 0 0 0 0 rgb(30, 86, 35);
+    opacity: 0;
+  }
+}
+
+@keyframes pulsOut {
+  0%,
+  50% {
+    box-shadow: 0 0 0 0 rgb(130, 213, 137);
+    opacity: 0;
+  }
+  100% {
+    box-shadow: 0 0 0 1rem rgb(130, 213, 137);
+    opacity: 1;
+  }
+}

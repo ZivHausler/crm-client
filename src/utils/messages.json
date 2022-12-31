@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Message 1",
+    "text": "This is a text for message number 1"
+  },
+  {
+    "title": "Message 2",
+    "text": "This is a text for message number 2"
+  },
+  {
+    "title": "Message 3",
+    "text": "This is a text for message number 3"
+  },
+  {
+    "title": "Message 4",
+    "text": "This is a text for message number 4"
+  },
+  {
+    "title": "Message 5",
+    "text": "This is a text for message number 5"
+  },
+  {
+    "title": "Message 6",
+    "text": "This is a text for message number 6"
+  },
+  {
+    "title": "Message 7",
+    "text": "This is a text for message number 7"
+  },
+  {
+    "title": "Message 8",
+    "text": "This is a text for message number 8"
+  },
+  {
+    "title": "Message 9",
+    "text": "This is a text for message number 9"
+  },
+  {
+    "title": "Message 10",
+    "text": "This is a text for message number 10"
+  }
+]
