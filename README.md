@@ -18,5 +18,5 @@ Use cases for SHZ:<br>
 - Marketing campaigns: SHZ can be used to plan, execute, and track marketing campaigns.<br>
 - Customer support: SHZ can be used to manage customer support tickets and provide better customer service.<br>
 - Project management: SHZ can be used to manage all aspects of project management, from planning to execution to completion.<br>
-
+<br>
 Overall, SHZ is a powerful and versatile Work OS that can be used to improve the way teams work. It is a good choice for teams of all sizes and industries.<br>
