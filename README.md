@@ -1,70 +1,24 @@
-# Getting Started with Create React App
+# SHZ Project Management
+is a cloud-based work operating system (Work OS) that helps teams of all sizes manage their work more effectively. It is a versatile platform that can be used for a variety of purposes, including:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Project management: 
+SHZ can be used to create and manage projects of all sizes, from simple to complex. It offers a variety of features to help teams plan, track, and collaborate on their work, including Kanban boards, Gantt charts, and time tracking.<br>
+Customer relationship management (CRM): SHZ can be used to manage customer interactions, track leads, and close deals. It offers features such as contact management, opportunity tracking, and pipeline visualization.<br>
+Marketing: SHZ can be used to plan and execute marketing campaigns, track leads, and measure results. It offers features such as social media management, email marketing, and landing page creation.<br>
+Sales: SHZ can be used to manage sales pipelines, track leads, and close deals. It offers features such as lead scoring, opportunity tracking, and customer relationship management.<br>
+Operations: SHZ can be used to manage workflows, track tasks, and collaborate on projects. It offers features such as process automation, task management, and document sharing.<br>
+Benefits of using SHZ:<br>
 
-## Available Scripts
+Flexibility: SHZ is a highly customizable platform that can be adapted to meet the needs of any team.<br>
+Visuality: SHZ uses a visual interface that makes it easy to see the status of projects and tasks.<br>
+Collaboration: SHZ makes it easy for teams to collaborate on projects and tasks, regardless of their location.<br>
+Automation: SHZ offers a variety of automation features that can help teams save time and streamline their workflows.<br>
+Integrations: SHZ integrates with a variety of other popular tools, making it easy to connect your work across different platforms.<br>
+Use cases for SHZ:<br>
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Product development: SHZ can be used to manage the product development lifecycle, from ideation to launch.<br>
+Marketing campaigns: SHZ can be used to plan, execute, and track marketing campaigns.<br>
+Sales pipelines: SHZ can be used to manage sales pipelines and close deals more effectively.<br>
+Customer support: SHZ can be used to manage customer support tickets and provide better customer service.<br>
+Project management: SHZ can be used to manage all aspects of project management, from planning to execution to completion.<br>
+Overall, SHZ is a powerful and versatile Work OS that can be used to improve the way teams work. It is a good choice for teams of all sizes and industries.<br>
